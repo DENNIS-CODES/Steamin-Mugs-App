@@ -1,4 +1,4 @@
-# DENNIS-CODES-Steamin-Mugs-App
+# Steamin-Mugs-App
 
 - This App Specifically Asks Users to Review Coffee from Nearby Coffee Shops,
 - Users can Sign up,login and search for nearby Coffee shops, this is made possible using Google Play services Location APIis
